@@ -1,0 +1,21 @@
+<LET, >
+<ID, 1>
+<STRING, >
+<PUNTOCOMA, >
+<ID, 1>
+<ASIG, >
+<CADENA, "Hola, mundo">
+<PUNTOCOMA, >
+<ID, 1>
+<ASIG, >
+<PUNTOCOMA, >
+<ID, 1>
+<ASIG, >
+<CADENA, "Este mensaje es demasiado largo porque supera los sesenta y cuatro caracteres">
+<PUNTOCOMA, >
+<ID, 1>
+<ASIG, >
+<ECHO, >
+<ID, 1>
+<PUNTOCOMA, >
+<EOF, >

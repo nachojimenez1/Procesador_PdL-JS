@@ -1,0 +1,10 @@
+// Caso 6: caracteres y operadores que no pertenecen al lenguaje
+let x int;
+let y int;
+let ok boolean;
+x = 10 - 3;          // error: solo existe '-='
+ok = x < y & true;   // error: el y logico es '&&'
+y = x / 2;           // error: '/' sin otro '/'
+y = x * 2;           // error: '*' no pertenece al lenguaje
+if (ok == true) echo "igual";   // no es error lexico: son dos ASIG
+x -= 1;              // correcto

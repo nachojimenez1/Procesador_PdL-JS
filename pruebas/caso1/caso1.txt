@@ -1,0 +1,15 @@
+// Caso 1: declaraciones, entrada/salida y condicional simple
+let edad int;
+let nota float;
+let nombre string;
+let aprobado boolean;
+
+echo "Escribe tu nombre: ";
+prompt nombre;
+echo "Escribe tu edad y tu nota:\n";
+prompt edad;
+prompt nota;
+
+aprobado = 4.99 < nota;   // se aprueba con 5.0 o mas
+if (aprobado && true) echo "Enhorabuena, has aprobado";
+echo nombre;

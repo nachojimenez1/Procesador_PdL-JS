@@ -1,0 +1,10 @@
+// Caso 4: errores en constantes numericas
+let a int;
+let r float;
+a = 32767;          // correcto: maximo entero
+a = 32768;          // error: entero fuera de rango
+r = 78.;            // error: falta la parte decimal
+r = .378;           // error: falta la parte entera
+r = 117549437.0;    // error: real fuera de rango
+r = 3.0;            // correcto
+echo a + r;

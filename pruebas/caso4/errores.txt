@@ -1,0 +1,4 @@
+Error lexico en la linea 5: La constante entera 32768 supera el valor maximo permitido (32767).
+Error lexico en la linea 6: La constante real '78.' esta mal formada: debe haber al menos un digito despues del punto.
+Error lexico en la linea 7: La constante real '.378' esta mal formada: debe haber al menos un digito antes del punto.
+Error lexico en la linea 8: La constante real 117549437.0 supera el valor maximo permitido (117549436.0).

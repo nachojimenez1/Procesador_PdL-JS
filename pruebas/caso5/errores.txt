@@ -1,0 +1,3 @@
+Error lexico en la linea 4: Las cadenas deben escribirse entre comillas dobles ("..."), no entre comillas simples.
+Error lexico en la linea 5: La cadena "Este mensaje es demasiado largo porque supera los sesenta y cuatro caracteres" es demasiado larga (tiene 77 caracteres y el maximo permitido es 64).
+Error lexico en la linea 6: La cadena que empieza por "Esta cadena no se cierra;" no esta cerrada: falta la comilla doble final antes del fin de la linea.

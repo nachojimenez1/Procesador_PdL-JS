@@ -1,0 +1,4 @@
+Error lexico en la linea 5: El caracter '-' no esta permitido; el unico operador que lo usa es '-='.
+Error lexico en la linea 6: El caracter '&' no esta permitido; el operador logico es '&&'.
+Error lexico en la linea 7: El caracter '/' no esta permitido; los comentarios se escriben con '//'.
+Error lexico en la linea 8: El caracter '*' no pertenece al lenguaje.

@@ -1,0 +1,21 @@
+// Caso 3: valores limite y mayusculas/minusculas
+let Valor float;
+let valor float;
+let While boolean;   // 'While' no es palabra reservada: es un identificador
+let texto string;
+
+function esMenor boolean (a float, b float)
+{
+	return a < b;
+}
+
+Valor = 117549436.0;   // maximo real permitido
+valor = 0.5;
+veces = 32767;         // maximo entero; 'veces' no esta declarada
+veces = 007;           // ceros a la izquierda
+While = esMenor(valor, Valor) && false;
+texto = "";            // cadena vacia
+texto = "Dijo \"hola\" y se fue";
+texto = "Cadena limite: tiene exactamente sesenta y cuatro caracteres. Ok";
+echo texto;
+// comentario en la ultima linea, sin salto de linea final

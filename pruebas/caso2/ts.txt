@@ -1,0 +1,10 @@
+#1:
+* 'total'
+* '_contador_1'
+* 'sumaTres'
+* 'x'
+* 'y'
+* 'z'
+* 'resultado'
+* 'cuentaAtras'
+* 'n'

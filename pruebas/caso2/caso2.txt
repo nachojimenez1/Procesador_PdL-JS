@@ -1,0 +1,24 @@
+// Caso 2: funciones, bucle do-while y asignacion con resta
+let total int;
+let _contador_1 int;
+
+function sumaTres int (x int, y int, z int)
+{
+	let resultado int;
+	resultado = x + y + z;
+	return resultado;
+}
+
+function cuentaAtras void (n int)
+{
+	do {
+		echo n;
+		n -= 1;
+	} while (0 < n);
+	return;
+}
+
+total = sumaTres(10, 20, 30);
+_contador_1 = 5;
+cuentaAtras(_contador_1);
+echo total;

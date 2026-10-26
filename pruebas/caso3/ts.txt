@@ -1,0 +1,9 @@
+#1:
+* 'Valor'
+* 'valor'
+* 'While'
+* 'texto'
+* 'esMenor'
+* 'a'
+* 'b'
+* 'veces'

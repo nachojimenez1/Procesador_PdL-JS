@@ -1,0 +1,7 @@
+// Caso 5: errores en cadenas de caracteres
+let saludo string;
+saludo = "Hola, mundo";
+saludo = 'Hola con comillas simples';
+saludo = "Este mensaje es demasiado largo porque supera los sesenta y cuatro caracteres";
+saludo = "Esta cadena no se cierra;
+echo saludo;

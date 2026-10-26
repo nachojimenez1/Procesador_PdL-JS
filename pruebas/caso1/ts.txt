@@ -1,0 +1,5 @@
+#1:
+* 'edad'
+* 'nota'
+* 'nombre'
+* 'aprobado'
